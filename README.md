@@ -1,4 +1,4 @@
-# To-Do List con localStorage y Event Delegation
+# RETO DIA 15 WES BOS - LOCALSTORAGE
 
 Este proyecto es una pequeña aplicación en **vanilla JavaScript, HTML y CSS** que permite gestionar una lista de tareas (tapas, al ser recetas que tenemos que terminar de hacer). Incluye las funcionalidades esenciales de agregar, marcar como completado, eliminar y guardar los datos en el navegador usando `localStorage`.
 
@@ -35,6 +35,8 @@ https://dev.to/raquelsartwork/how-i-used-localstorage-and-event-delegation-in-a-
 ## 📁 Estructura del proyecto
 
 ```
+├── images
+    └── logo_restaurant.png
 ├── index.html
 ├── style.css
 └── script.js
@@ -81,6 +83,11 @@ De igual manera, si el clic proviene de un botón:
 2. Escribe un nuevo item y presiona “+ Add Item”.
 3. Marca los items como completados o elimínalos.
 4. Recarga la página: los datos se mantienen gracias a `localStorage`.
+
+o también puedes
+
+1. Ir a la URL: [text](https://mathiasveram.github.io/reto-javascript/)
+2. Probarlo desplegado en Github Pages
 
 ---
 
