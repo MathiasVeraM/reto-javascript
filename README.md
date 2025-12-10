@@ -1,5 +1,7 @@
 # RETO DIA 15 WES BOS - LOCALSTORAGE
 
+Por: Mathias Vera
+
 Este proyecto es una pequeña aplicación en **vanilla JavaScript, HTML y CSS** que permite gestionar una lista de tareas (tapas, al ser recetas que tenemos que terminar de hacer). Incluye las funcionalidades esenciales de agregar, marcar como completado, eliminar y guardar los datos en el navegador usando `localStorage`.
 
 El ejercicio está inspirado en el **Día 15 del curso JavaScript30 de Wes Bos**, y también me basé en las ideas explicadas en este artículo de DEV Community:
@@ -75,6 +77,19 @@ De igual manera, si el clic proviene de un botón:
 - Se usa `splice()` para eliminar el item.
 - Se guarda en `localStorage`.
 - Se repinta la lista.
+
+---
+
+## 👍 Imagenes del funcionamiento
+
+1. Imagen inicial
+![Imagen 1](images/1.png)
+2. Creando y marcando una tarea como completada
+![Imagen 2](images/2.png)
+3. Creando otra tarea sin marcar
+![Imagen 3](images/3.png)
+4. Eliminando la tarea inicial
+![Imagen 4](images/4.png)
 
 ---
 
