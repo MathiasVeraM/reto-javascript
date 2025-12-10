@@ -38,6 +38,7 @@ https://dev.to/raquelsartwork/how-i-used-localstorage-and-event-delegation-in-a-
 ├── images
     └── logo_restaurant.png
 ├── index.html
+├── README.md
 ├── style.css
 └── script.js
 ```
@@ -86,7 +87,7 @@ De igual manera, si el clic proviene de un botón:
 
 o también puedes
 
-1. Ir a la URL: [text](https://mathiasveram.github.io/reto-javascript/)
+1. Ir a la URL: [Link deployado](https://mathiasveram.github.io/reto-javascript/)
 2. Probarlo desplegado en Github Pages
 
 ---
